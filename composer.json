@@ -1,0 +1,16 @@
+{
+    "name": "lilac/editor",
+    "description": "A lARAVEL PAKCAGE FOR EDITOR",
+    "authors": [
+        {
+            "name": "aiswarya",
+            "email": "aiswaryapulloor@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lilac\\editor\\": "src/"
+        }
+    }
+}
